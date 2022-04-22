@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-demo",
-    "slug": "first-demo",
+    "name": "tehtava-3-laskin-historialla",
+    "slug": "tehtava-3-laskin-historialla",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
